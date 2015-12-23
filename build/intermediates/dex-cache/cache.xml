@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\pre-dexed\debug\classes-12cebecf2c3fd3e7420a4da998cea8c9bf6352a7.jar" />
+    </item>
+    <item
+        jar="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\pre-dexed\debug\classes-873bdb900bb2c9bd5920d1dce2fe3e12ff58fdee.jar" />
+    </item>
+    <item
+        jar="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\pre-dexed\debug\classes-26b50f4c1496b95937500090e3dab744a6881cbc.jar" />
+    </item>
+    <item
+        jar="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-82eb1952ca0fb57aaac6274c27bca0a8bc46c4f0.jar" />
+    </item>
+    <item
+        jar="F:\Programming\Android\Android 2014\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\MyPortfolio\Upwork\AntiTextingAndDriving\AntiTexting\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-9f22938727e960d300eeb7eea0492bbc463accec.jar" />
+    </item>
+
+</items>
